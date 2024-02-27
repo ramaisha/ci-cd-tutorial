@@ -1,0 +1,143 @@
+{
+    "serverMaxRevisionCounter": 32,
+    "sourceMembers": {
+        "PermissionSet__sfdcInternalInt__sfdc_scrt2": {
+            "serverRevisionCounter": 3,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.Body__c": {
+            "serverRevisionCounter": 11,
+            "lastRetrievedFromServer": 11,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.CertificateName__c": {
+            "serverRevisionCounter": 12,
+            "lastRetrievedFromServer": 12,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.Endpoint__c": {
+            "serverRevisionCounter": 13,
+            "lastRetrievedFromServer": 13,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.HeaderParameters__c": {
+            "serverRevisionCounter": 14,
+            "lastRetrievedFromServer": 14,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.IsCompressed__c": {
+            "serverRevisionCounter": 15,
+            "lastRetrievedFromServer": 15,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.Method__c": {
+            "serverRevisionCounter": 16,
+            "lastRetrievedFromServer": 16,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.Timeout__c": {
+            "serverRevisionCounter": 17,
+            "lastRetrievedFromServer": 17,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.URLParameters__c": {
+            "serverRevisionCounter": 18,
+            "lastRetrievedFromServer": 18,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "Profile__Admin": {
+            "serverRevisionCounter": 31,
+            "lastRetrievedFromServer": 31,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Layout__HTTPCalloutConfiguration__mdt-HTTPCalloutConfiguration Layout": {
+            "serverRevisionCounter": 30,
+            "lastRetrievedFromServer": 30,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomObject__HTTPCalloutConfiguration__mdt": {
+            "serverRevisionCounter": 28,
+            "lastRetrievedFromServer": 28,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutAsyncService": {
+            "serverRevisionCounter": 21,
+            "lastRetrievedFromServer": 21,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutAsyncServiceTest": {
+            "serverRevisionCounter": 22,
+            "lastRetrievedFromServer": 22,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutFrameworkException": {
+            "serverRevisionCounter": 23,
+            "lastRetrievedFromServer": 23,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutService": {
+            "serverRevisionCounter": 24,
+            "lastRetrievedFromServer": 24,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutServiceMock": {
+            "serverRevisionCounter": 25,
+            "lastRetrievedFromServer": 25,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutServiceMultiMock": {
+            "serverRevisionCounter": 26,
+            "lastRetrievedFromServer": 26,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutServiceTest": {
+            "serverRevisionCounter": 27,
+            "lastRetrievedFromServer": 27,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ValidationRule__HTTPCalloutConfiguration__mdt.TimeoutLimit": {
+            "serverRevisionCounter": 29,
+            "lastRetrievedFromServer": 29,
+            "memberType": "ValidationRule",
+            "isNameObsolete": false
+        },
+        "RemoteSiteSetting__SFDCStopAPI": {
+            "serverRevisionCounter": 32,
+            "lastRetrievedFromServer": 32,
+            "memberType": "RemoteSiteSetting",
+            "isNameObsolete": false
+        },
+        "CustomMetadata__HTTPCalloutConfiguration.SFDCStopBlogs": {
+            "serverRevisionCounter": 19,
+            "lastRetrievedFromServer": 19,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": false
+        },
+        "CustomMetadata__HTTPCalloutConfiguration.TestMetadata": {
+            "serverRevisionCounter": 20,
+            "lastRetrievedFromServer": 20,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": false
+        }
+    }
+}
