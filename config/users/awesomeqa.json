@@ -1,0 +1,13 @@
+{
+    "Username": "awesomeqa@sfdxom.org",
+    "LastName": "awesome",
+    "Email": "awesomeqa@sfdxom.com",
+    "Alias": "AQA",
+    "TimeZoneSidKey": "America/Denver",
+    "LocaleSidKey": "en_US",
+    "EmailEncodingKey": "UTF-8",
+    "LanguageLocaleKey": "en_US",
+    "profileName": "Standard Platform User",
+    "permsets": ["awesomeqa_pset"],
+    "generatePassword": true
+}
